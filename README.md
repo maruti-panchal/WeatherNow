@@ -4,6 +4,8 @@
 
 Welcome to WeatherNow, your go-to weather app for real-time forecasts and weather updates! ☀️🌧️
 
+![BeFunky-collage](https://github.com/maruti-panchal/WeatherNow/assets/112648935/26aeaf66-b9cc-43d1-9bad-94ddeaca429f)
+
 
 
 ### 🌍 About WeatherNow
