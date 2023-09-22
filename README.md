@@ -4,7 +4,8 @@
 
 Welcome to WeatherNow, your go-to weather app for real-time forecasts and weather updates! ☀️🌧️
 
-![WeatherNow Screenshot](link-to-your-screenshot.png)
+![WeatherNow Screenshot](![img1](https://github.com/maruti-panchal/WeatherNow/assets/112648935/26389659-f8bc-4c89-b2ba-2d95a22a777e)
+)
 
 ### 🌍 About WeatherNow
 WeatherNow is a simple and intuitive weather app that empowers you with the latest weather information right at your fingertips. Whether you're planning your day, a weekend getaway, or a long journey, WeatherNow has you covered. With an easy-to-use interface and accurate data, you can make informed decisions, come rain or shine.
