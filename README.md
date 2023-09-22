@@ -3,7 +3,7 @@
 # 🌦️ WeatherNow - Your Personal Weather Companion 🌦️
 
 Welcome to WeatherNow, your go-to weather app for real-time forecasts and weather updates! ☀️🌧️
-![Today's Weather Screenshot](https://github.com/maruti-panchal/WeatherNow/assets/img1.png)
+
 
 
 ### 🌍 About WeatherNow
